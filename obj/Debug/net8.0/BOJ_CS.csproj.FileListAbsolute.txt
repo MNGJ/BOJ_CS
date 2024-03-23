@@ -12,3 +12,4 @@ C:\BOJ_CS\obj\Debug\net8.0\refint\BOJ_CS.dll
 C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.pdb
 C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.genruntimeconfig.cache
 C:\BOJ_CS\obj\Debug\net8.0\ref\BOJ_CS.dll
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.sourcelink.json
