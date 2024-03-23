@@ -1,0 +1,14 @@
+C:\BOJ_CS\bin\Debug\net8.0\BOJ_CS.exe
+C:\BOJ_CS\bin\Debug\net8.0\BOJ_CS.deps.json
+C:\BOJ_CS\bin\Debug\net8.0\BOJ_CS.runtimeconfig.json
+C:\BOJ_CS\bin\Debug\net8.0\BOJ_CS.dll
+C:\BOJ_CS\bin\Debug\net8.0\BOJ_CS.pdb
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.AssemblyInfoInputs.cache
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.AssemblyInfo.cs
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.csproj.CoreCompileInputs.cache
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.dll
+C:\BOJ_CS\obj\Debug\net8.0\refint\BOJ_CS.dll
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.pdb
+C:\BOJ_CS\obj\Debug\net8.0\BOJ_CS.genruntimeconfig.cache
+C:\BOJ_CS\obj\Debug\net8.0\ref\BOJ_CS.dll
